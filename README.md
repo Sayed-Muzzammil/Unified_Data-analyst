@@ -33,8 +33,11 @@ With FIFA is in the blood of many people of the world. You are tasked to tell th
 Summary of FIFA Data Insights:
 
 • Total Goals Scored in All World Cups: 2379, with an average of 2.85 goals per match, reflecting the excitement and competitiveness of the tournaments.
+
 • Teams with Most World Cup Wins: Brazil leads with 5 victories, followed by Italy with 4, Germany FR with 3, and Uruguay and Argentina with 2 wins each, showcasing the dominance of these football powerhouses.
+
 • Home Win Percentage: The data reveals a home win percentage of 10.67%, indicating the influence of home advantage in FIFA World Cup matches.
+
 • Top Referees with Most Matches: Ravshan Irmatov from Uzbekistan tops the list with 10 matches officiated, followed by referees from Mexico, Uruguay, and France, highlighting the experienced officials who have presided over multiple World Cup games.
 
 This summary encapsulates key insights from the FIFA data, shedding light on historical trends, team performances, referee statistics, and the dynamics of the world's most prestigious football tournament.
